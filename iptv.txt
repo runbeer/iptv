@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel UK" tvg-logo="https://i.imgur.com/v5zZyYy.png" group-title="Tennis",Tennis Channel UK
 https://list.iptvcat.com/my_list/s/14968df1f9ca246ae9b9b76769dd9d06.m3u8
