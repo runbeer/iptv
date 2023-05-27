@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel UK" tvg-logo="https://i.imgur.com/v5zZyYy.png" group-title="Tennis",Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="Tennis",Super Tennis (1080p)
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Intl" tvg-logo="https://i.imgur.com/XZvF81I.png" group-title="Tennis",Tennis Channel Intl
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
