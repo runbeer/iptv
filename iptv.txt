@@ -18,3 +18,38 @@ http://onrev.xyz:80/cgeJug33/xJwn5aQp4S/106404
 http://onrev.xyz:80/cgeJug33/xJwn5aQp4S/106407
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="https://i.imgur.com/xO6Z8C6.png" group-title="Eleven Sports",Eleven Sports 6
 http://onrev.xyz:80/cgeJug33/xJwn5aQp4S/106410
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
+#https://webudit.salamus1.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
+https://webudit.salamus1.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
+https://webudit.salamus1.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
+https://webudit.salamus1.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-name="Astro SuperSport 5" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
+https://webudit.salamus1.lol/lb/premium43/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 1 HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_supersport_my.png" group-title="EPL GAMES",EPL: Astro SuperSport 1 HD
+http://113.160.74.11:8889/prostv.php?id=190645
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 2 HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_supersport_my_2.png" group-title="EPL GAMES",EPL: Astro SuperSport 2 HD
+http://113.160.74.11:8889/prostv.php?id=190644
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 3 HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_supersport_my_3.png" group-title="EPL GAMES",EPL: Astro SuperSport 3 HD
+http://113.160.74.11:8889/prostv.php?id=190643
+#EXTINF:-1 tvg-id="" tvg-name="EPL: Astro SuperSport 4 HD" tvg-logo="http://163.172.38.193:25461/logo/tv/aa/astro_supersport_my_4.png" group-title="EPL GAMES",EPL: Astro SuperSport 4 HD
+http://113.160.74.11:8889/prostv.php?id=190642
