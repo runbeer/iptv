@@ -1,6 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Live 1080p" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png", 1.Tennis Channel Live 1080p
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130113&extension=ts&play_token=tMlNnDjqu6
-
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel UK" tvg-logo="https://i.imgur.com/v5zZyYy.png" group-title="Tennis",Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="Tennis",Super Tennis (1080p)
@@ -10,7 +9,7 @@ http://onrev.xyz:80/cgeJug33/xJwn5aQp4S/52555
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Live 1080p" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png", 2.Tennis Channel Live 1080p
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130113&extension=ts&play_token=tMlNnDjqu6
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Intl" tvg-logo="https://i.imgur.com/XZvF81I.png" group-title="Tennis",Tennis Channel Intl
