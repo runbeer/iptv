@@ -77,3 +77,38 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38189&extens
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38191&extension=ts&play_token=OR5DOWotC8
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersports 5 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1117031&extension=ts&play_token=eOaVsReUY3
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US| TENNIS CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL.jpg" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL
+http://ss123.pro:80/younes2023/younes2023/811667
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 1" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 1
+http://ss123.pro:80/younes2023/younes2023/959419
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 2" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 2
+http://ss123.pro:80/younes2023/younes2023/959420
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 3" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 3
+http://ss123.pro:80/younes2023/younes2023/959421
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 4" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 4
+http://ss123.pro:80/younes2023/younes2023/959422
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 5" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 5
+http://ss123.pro:80/younes2023/younes2023/959423
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 6" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 6
+http://ss123.pro:80/younes2023/younes2023/959424
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 7" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 7
+http://ss123.pro:80/younes2023/younes2023/959425
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 8" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 8
+http://ss123.pro:80/younes2023/younes2023/959426
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 9" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 9
+http://ss123.pro:80/younes2023/younes2023/959427
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 10" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 10
+http://ss123.pro:80/younes2023/younes2023/959428
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 11" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 11
+http://ss123.pro:80/younes2023/younes2023/959429
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 12" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 12
+http://ss123.pro:80/younes2023/younes2023/959430
+#EXTINF:-1 tvg-id="" tvg-name="US| SUPERSPORT TENNIS" tvg-logo="http://logo.protv.cc/picons/logos/supertennis.png" group-title="US| SPORTS NETWORK",US| SUPERSPORT TENNIS
+http://ss123.pro:80/younes2023/younes2023/811666
+
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="RO|  DIGI SPORT 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="ROMANIA",RO|  DIGI SPORT 4 HD
+http://ss123.pro:80/younes2023/younes2023/207964
+#EXTINF:-1 tvg-id="" tvg-name="RO| DIGI SPORT 4" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="ROMANIA",RO| DIGI SPORT 4
+http://ss123.pro:80/younes2023/younes2023/56116
