@@ -108,6 +108,13 @@ http://ss123.pro:80/younes2023/younes2023/811666
 
 #EXTINF:-1 tvg-id="" tvg-name="US| SUPERSPORT TENNIS" tvg-logo="http://logo.protv.cc/picons/logos/supertennis.png" group-title="US| SPORTS NETWORK",US| SUPERSPORT TENNIS
 http://ss123.pro:80/younes2023/younes2023/811666
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SA| SUPERSPORT TENNIS" tvg-logo="" group-title="AFR| DSTV NETWORK",SA| SUPERSPORT TENNIS
+http://ss123.pro:80/younes2023/younes2023/1112195
+#EXTINF:-1 tvg-id="" tvg-name="UGA| SUPERSPORT TENNIS" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-TENNIS-TV.png" group-title="AFR| GENERAL",UGA| SUPERSPORT TENNIS
+http://ss123.pro:80/younes2023/younes2023/833282
+
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="RO|  DIGI SPORT 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="ROMANIA",RO|  DIGI SPORT 4 HD
+http://ss123.pro:80/younes2023/younes2023/207964
 
 #EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="RO|  DIGI SPORT 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="ROMANIA",RO|  DIGI SPORT 4 HD
 http://ss123.pro:80/younes2023/younes2023/207964
