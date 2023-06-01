@@ -120,3 +120,11 @@ http://ss123.pro:80/younes2023/younes2023/207964
 http://ss123.pro:80/younes2023/younes2023/207964
 #EXTINF:-1 tvg-id="" tvg-name="RO| DIGI SPORT 4" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="ROMANIA",RO| DIGI SPORT 4
 http://ss123.pro:80/younes2023/younes2023/56116
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7XmtZhDnB_oV_EHeYnhjPweU10wDNqvr7GDkd6oLBk2rWrFEZoNr1kreL1MsxqTiEmQ.png" group-title="★●• USA ●•★",USA: Tennis Channel
+http://kingiptv.co.uk:8080/Eduardo/Eduardo321/64999
+#EXTINF:-1 tvg-id="" tvg-name="USA: TENNIS HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7XmtZhDnB_oV_EHeYnhjPweU10wDNqvr7GDkd6oLBk2rWrFEZoNr1kreL1MsxqTiEmQ.png" group-title="★●• USA ●•★",USA: TENNIS HD
+http://kingiptv.co.uk:8080/Eduardo/Eduardo321/65000
+#EXTINF:-1 tvg-id="" tvg-name="USA: TENNIS HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7XmtZhDnB_oV_EHeYnhjPweU10wDNqvr7GDkd6oLBk2rWrFEZoNr1kreL1MsxqTiEmQ.png" group-title="★●• USA ●•★",USA: TENNIS HD
+http://kingiptv.co.uk:8080/Santos2022/2022Santos/64999
