@@ -89,24 +89,25 @@ http://ss123.pro:80/younes2023/younes2023/959419
 #EXTINF: -1 group-title="Ungrouped", US: Tennis Channel HD
 http://king.57tv.online:8000/darkboxxx/A943CQ4hHbm7/144836
 
-#EXTINF:-1,US: TENNIS CHANNEL
+#EXTINF:-1 #EXTINF:-1 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",US: TENNIS CHANNEL
 http://lista.deluxeprime.net:8080/gt/gt/176517
-#EXTINF:-1,DEP HD: TENNIS CHANNEL
+#EXTINF:-1 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: TENNIS CHANNEL" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",DEP HD: TENNIS CHANNEL
 http://lista.deluxeprime.net:8080/gt/gt/181895
-#EXTINF:-1,USA Tennis Channel Plus 1
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 1" group-title="Tennis" tvg-logo="https://i.imgur.com/nxlNlsj.png",Tennis Channel Plus 1
 http://lista.deluxeprime.net:8080/gt/gt/176518
-#EXTINF:-1,USA Tennis Channel Plus 2
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 2" group-title="Tennis" tvg-logo="https://i.imgur.com/OB9UZK4.png",Tennis Channel Plus 2
 http://lista.deluxeprime.net:8080/gt/gt/176519
-#EXTINF:-1,USA Tennis Channel Plus 3
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 3" group-title="Tennis" tvg-logo="https://i.imgur.com/xGS04G2.png",Tennis Channel Plus 3
 http://lista.deluxeprime.net:8080/gt/gt/176520
 
-#EXTINF:-1,US: TENNIS CHANNEL
+
+#EXTINF:-1 #EXTINF:-1 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",US: TENNIS CHANNEL
 http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176517
-#EXTINF:-1,DEP HD: TENNIS CHANNEL
+#EXTINF:-1 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: TENNIS CHANNEL" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",DEP HD: TENNIS CHANNEL
 http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/181895
-#EXTINF:-1,USA Tennis Channel Plus 1
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 1" group-title="Tennis" tvg-logo="https://i.imgur.com/nxlNlsj.png",Tennis Channel Plus 1
 http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176518
-#EXTINF:-1,USA Tennis Channel Plus 2
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 2" group-title="Tennis" tvg-logo="https://i.imgur.com/OB9UZK4.png",Tennis Channel Plus 2
 http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176519
-#EXTINF:-1,USA Tennis Channel Plus 3
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 3" group-title="Tennis" tvg-logo="https://i.imgur.com/xGS04G2.png",Tennis Channel Plus 3
 http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176520
