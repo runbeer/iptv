@@ -84,27 +84,7 @@ http://ss123.pro:80/younes2023/younes2023/811667
 #EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 1" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 1
 http://ss123.pro:80/younes2023/younes2023/959419
 #EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 2" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 2
-http://ss123.pro:80/younes2023/younes2023/959420
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 3" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 3
-http://ss123.pro:80/younes2023/younes2023/959421
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 4" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 4
-http://ss123.pro:80/younes2023/younes2023/959422
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 5" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 5
-http://ss123.pro:80/younes2023/younes2023/959423
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 6" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 6
-http://ss123.pro:80/younes2023/younes2023/959424
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 7" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 7
-http://ss123.pro:80/younes2023/younes2023/959425
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 8" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 8
-http://ss123.pro:80/younes2023/younes2023/959426
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 9" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 9
-http://ss123.pro:80/younes2023/younes2023/959427
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 10" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 10
-http://ss123.pro:80/younes2023/younes2023/959428
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 11" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 11
-http://ss123.pro:80/younes2023/younes2023/959429
-#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 12" tvg-logo="http://logo.protv.cc/picons/logos/TENNIS-CHANNEL-PLUS.png" group-title="US| SPORTS NETWORK",US| TENNIS CHANNEL PLUS 12
-http://ss123.pro:80/younes2023/younes2023/959430
+
 
 #EXTINF: -1 group-title="Ungrouped", US: Tennis Channel HD
 http://king.57tv.online:8000/darkboxxx/A943CQ4hHbm7/144836
@@ -119,3 +99,14 @@ http://lista.deluxeprime.net:8080/gt/gt/176518
 http://lista.deluxeprime.net:8080/gt/gt/176519
 #EXTINF:-1,USA Tennis Channel Plus 3
 http://lista.deluxeprime.net:8080/gt/gt/176520
+
+#EXTINF:-1,US: TENNIS CHANNEL
+http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176517
+#EXTINF:-1,DEP HD: TENNIS CHANNEL
+http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/181895
+#EXTINF:-1,USA Tennis Channel Plus 1
+http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176518
+#EXTINF:-1,USA Tennis Channel Plus 2
+http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176519
+#EXTINF:-1,USA Tennis Channel Plus 3
+http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176520
