@@ -21,7 +21,6 @@ http://lista.deluxeprime.net:8080/gt/gt/176519
 http://lista.deluxeprime.net:8080/gt/gt/176520
 
 
-http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/176517
 #EXTINF:-1 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: TENNIS CHANNEL" group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",DEP HD: TENNIS CHANNEL
 http://lista.deluxeprime.net:8080/eL2KqrpqgBuD/G8bWaHk95RHP/181895
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus 1" group-title="Tennis" tvg-logo="https://i.imgur.com/nxlNlsj.png",Tennis Channel Plus 1
