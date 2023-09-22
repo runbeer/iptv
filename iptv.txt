@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="Sport Live Loc" group-title="Sport Live Loc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png", Sport Live Loc
+#EXTINF:-1 tvg-id="" tvg-name="Sport Live Loc" group-title="Sport Live Loc" tvg-logo="https://i.imgur.com/x7tJk6Z.jpg", Sport Live Loc
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
 
 
