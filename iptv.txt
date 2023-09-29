@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="Sport Live Loc" group-title="Sport Live Loc" tvg-logo="https://i.imgur.com/x7tJk6Z.jpg", Sport Live Loc
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 
