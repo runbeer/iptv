@@ -1,4 +1,4 @@
 #EXTINF:-1 tvg-id="" tvg-name="Tennis Channel SP" tvg-logo="https://i.imgur.com/x7tJk6Z.jpg", Tennis Channel SP
-https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD2600001ME.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T2" tvg-logo="https://i.imgur.com/DwJkPRO.png", T2
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
