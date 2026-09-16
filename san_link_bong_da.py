@@ -40,12 +40,12 @@ def san_full_server_qua_proxy():
     # kiểu_quét: "" = chuẩn, "xoilac", "socolive", "thiendinh"
     # ==========================================
     tat_ca_server = [
-        ("Socolive", "https://bit.ly/socolive", "/room/", "socolive"),
+        ("Socolive", "https://live05.chuoichientv.me/", "/live/", "gavang"),
         ("Xoilac", "https://xoilaccg.tv", "/truc-tiep/", "xoilac"),
         ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
-        ("Hoiquan", "https://live05.chuoichientv.me/", "", "thiendinh"),
+        ("Hoiquan", "https://hoiquan.tv/", "", "thiendinh"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
     ]
 
