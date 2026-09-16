@@ -42,8 +42,8 @@ def san_full_server_qua_proxy():
     tat_ca_server = [
         ("Socolive", "https://live05.chuoichientv.me/", "/live/", "gavang"),
         ("Xoilac", "https://xoilaccg.tv", "/truc-tiep/", "xoilac"),
-        ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("Quechoa", "https://live05.chuoichientv.me/", "/live/", ""),
+        ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
         ("Hoiquan", "https://hoiquan.tv/", "", "thiendinh"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
