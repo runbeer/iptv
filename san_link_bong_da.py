@@ -43,7 +43,7 @@ def san_full_server_qua_proxy():
         ("Socolive", "https://live05.chuoichientv.me/", "/live/", "gavang"),
         ("Xoilac", "https://xoilaccg.tv", "/truc-tiep/", "xoilac"),
         ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
-        ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
+        ("Quechoa", "https://live05.chuoichientv.me/", "/live/", ""),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
         ("Hoiquan", "https://hoiquan.tv/", "", "thiendinh"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
