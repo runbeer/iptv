@@ -1,21 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.api-sports.io/football/leagues/1245.png", ⚽ Hết hiệp 1 - Asian Games Women - 07:00 17/09 - LIVE - Thailand W - 0 - : - 0 - 45' - Chinese Taipei W - Chuối Chao - Xem ngay
-https://tfzd3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=76396df54174c07c3de6dd87-178963229221773&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097231848478
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png", ⚽ Đang diễn ra - Asian Games Bóng Chuyền Nữ - 07:00 17/09 - LIVE - Hong Kong W - : - Vietnam W - Chuối Tây - Xem ngay
-https://tfzd3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=51d69d92782d4f1d436db715-178963230173857&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Adelaide United vs Tai Po luc 17:00 ngay 17/09/2026
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Lion City Sailors vs BG Pathum United luc 17:00 ngay 17/09/2026
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Hiệp 2 - AFC Cup - 12:15 17/09 - LIVE - Kitchee - 0 - : - 0 - 81' - Gangwon FC - Trốc Tru - Xem ngay
+https://tfzd4grauqmtofaauomttgr31435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=6a2ed37da8ec24ca5f18ec11-178965322091511&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168199784505085986
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Hiệp 2 - AFC Cup - 12:15 17/09 - LIVE - Shanghai Shenhua - 2 - : - 1 - 80' - Tampines Rovers - Chuối Lá - Xem ngay
+https://tfzd4grauqmtofaauomttgr31435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=6a2ed37da8ec24ca5f18ec11-178965323144823&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168199784505085986
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://res.cloudinary.com/dv7zv6ltc/image/upload/v1747065042/chuoi_chien/articles/a0pdxvpsvvnkwhcctmml.png", ⚽ Đang diễn ra - Vô địch Châu Âu Bóng Chuyền - 14:00 17/09 - LIVE - Serbia - : - Belgium - Chuối Tây - Xem ngay
+https://tfzd4grauqmtofaauomttgr31435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=6f30b19a064f86ab35f09f37-178965324237407&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168199783768835370
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ Levski Sofia vs Red Bull Salzburg luc 23:45 ngay 17/09/2026
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ OFI Crete FC vs Hoffenheim luc 23:45 ngay 17/09/2026
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ Tekstilshchik Ivanovo vs Rotor Volgograd luc 21:00 ngay 17/09/2026
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Machida Zelvia vs Svay Rieng FC luc 17:00 ngay 17/09/2026
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Vietnam(w) vs Japan(w) luc 17:30 ngay 17/09/2026
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Phnom Penh FC vs Kuching City FC luc 19:15 ngay 17/09/2026
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ Gazovik Orenburg vs FK Krasnodar luc 20:15 ngay 17/09/2026
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png", ⚽ Astana vs FC Kairat Almaty luc 21:00 ngay 17/09/2026
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1bf163c9c97591667d1da9330b17140d.png", ⚽ AEK Athens vs Panserraikos luc 21:45 ngay 17/09/2026
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a26b9ccaacd3c5b923848ce0aeacca1c.png", ⚽ Japan Women vs Hong Kong China Women lúc 17:00 ngày 17/09/2026
-https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png", ⚽ FK Atyrau vs Ordabasy luc 22:00 ngay 17/09/2026
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ Akron Togliatti vs Akhmat Grozny luc 22:30 ngay 17/09/2026
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ FK Rostov vs Dynamo Moscow luc 22:30 ngay 17/09/2026
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ FC Pari Nizhniy Novgorod vs FC Leningradets luc 23:00 ngay 17/09/2026
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Atl. Madrid vs Osasuna luc 00:00 ngay 17/09/2026
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ Milan vs Benfica luc 02:00 ngay 17/09/2026
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
