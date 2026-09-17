@@ -1,19 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_113435_320106f9.png", ⚽ Hiệp 2 - La Liga - 19:30 16/09 - LIVE - Barcelona - 4 - : - 2 - 65' - Racing Santander - Chuối Chao - Xem ngay
-https://tfzc3gr4nhct1gwzdepjqgrhuqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=af7f84ff622c1e3d4a92b7fc-178960309880883&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271556921580693
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_113603_db2862a3.png", ⚽ Đang diễn ra - CONMEBOL Sudamericana - 22:00 16/09 - LIVE - Atletico-MG - 0 - : - 0 - Santos - Trốc Tru - Xem ngay
-https://tfzc3gr4nhct1gwzdepjqgrhuqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=d2c6e43e2cea82a37b246fd0-178960310907761&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276443747689227
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_a1fe90ca.png", ⚽ Đang diễn ra - CONCACAF Champions League - 00:00 17/09 - LIVE - Inter Miami - : - Cruz Azul - Chuối Chao - Xem ngay
-https://tfzc3gr4nhct1gwzdepjqgrhuqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=af7f84ff622c1e3d4a92b7fc-178960312098629&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271556921580693
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png", ⚽ Corinthians Paulista vs Estudiantes La Plata luc 07:30 ngay 17/09/2026
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Vietnam(w) vs Japan(w) luc 17:30 ngay 17/09/2026
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Atl. Madrid vs Osasuna luc 00:00 ngay 17/09/2026
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ Omonia Nicosia FC vs Celta luc 23:45 ngay 16/09/2026
-https://playback.livetl002.com/live/69f42e961f739deff81510c0.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ Bayer Leverkusen vs NK Publikum Celje luc 02:00 ngay 17/09/2026
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png", ⚽ Đang diễn ra - VĐQG Colombia - 01:20 17/09 - LIVE - Bogota FC - : - Atlético Nacional - Chuối To - Xem ngay
+https://tfzd3gr3dgmtugrzdgpbqgrhdomm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=1b00e6ad48390c2b89bdfe54-178961312602687&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032787589538
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ Gazovik Orenburg vs FK Krasnodar luc 20:15 ngay 17/09/2026
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ OFI Crete FC vs Hoffenheim luc 23:45 ngay 17/09/2026
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1bf163c9c97591667d1da9330b17140d.png", ⚽ Kalamata AO vs AEL Larisa luc 20:30 ngay 17/09/2026
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ Tekstilshchik Ivanovo vs Rotor Volgograd luc 21:00 ngay 17/09/2026
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1bf163c9c97591667d1da9330b17140d.png", ⚽ AEK Athens vs Panserraikos luc 21:45 ngay 17/09/2026
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png", ⚽ FK Atyrau vs Ordabasy luc 22:00 ngay 17/09/2026
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ Akron Togliatti vs Akhmat Grozny luc 22:30 ngay 17/09/2026
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ FK Rostov vs Dynamo Moscow luc 22:30 ngay 17/09/2026
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/48168568dd824069e69edc3ccd7dc42a.png", ⚽ Fuerza Regia de Monterrey vs Mineros de Zacatecas lúc 08:15 ngày 17/09/2026
+https://playback.livetl002.com/live/6a77144762ca98f0944094c0.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a26b9ccaacd3c5b923848ce0aeacca1c.png", ⚽ Indonesia Women vs Thailand Women lúc 11:00 ngày 17/09/2026
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/b6878097f12e161b1a3b7675d79ea2f8.png", ⚽ Lobos BKB Chalchuapa vs Santa Ana BC lúc 08:15 ngày 17/09/2026
+https://playback.livetl004.com/live/69d37c3a4da3e15776b6db56.m3u8
