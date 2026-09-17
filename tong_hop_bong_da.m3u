@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_112636_67ca992a.png", ⚽ Hiệp 2 - UEFA Europa League - 19:00 17/09 - LIVE - Besiktas - 3 - : - 1 - 78' - Marseille - A Ngao - Xem ngay
-https://tfzd3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=cc69a6da396f0924fad3004d-178967766888655&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_112636_67ca992a.png", ⚽ Hiệp 2 - UEFA Europa League - 19:00 17/09 - LIVE - Juventus - 4 - : - 0 - 81' - NEC Nijmegen - Chuối Nhỏ - Xem ngay
-https://tfzd3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=daa47a24dec60cf90b2bc69d-178967767939704&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097216119550
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_112636_67ca992a.png", ⚽ Hiệp 2 - UEFA Europa League - 19:00 17/09 - LIVE - Real Sociedad - 1 - : - 2 - 82' - Bournemouth - Chuối Lá - Xem ngay
-https://tfzd3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=daa47a24dec60cf90b2bc69d-178967769135178&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097216119550
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_113435_320106f9.png", ⚽ Hiệp 2 - La Liga - 19:30 17/09 - LIVE - Malaga - 1 - : - 2 - 49' - Villarreal - Trốc Tru - Xem ngay
-https://tfzd3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=cc69a6da396f0924fad3004d-178967770312740&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png", ⚽ Torque vs Cienciano luc 07:30 ngay 18/09/2026
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png", ⚽ CR Flamengo vs Independiente del Valle luc 07:30 ngay 18/09/2026
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b9ea430273d03d5567f1edd406b4e1b5.png", ⚽ CD Olimpia vs Luis Angel Firpo luc 10:15 ngay 18/09/2026
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Zhejiang FC vs Wuhan Three Towns FC luc 18:35 ngay 18/09/2026
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ FC Dynamo Makhachkala vs CSKA Moscow luc 00:45 ngay 18/09/2026
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3856d1c82c6896c8c53370e31f36365d.png", ⚽ Belgrano Reserves vs Deportivo Riestra Reserves luc 01:00 ngay 18/09/2026
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Atlanta Dream vs Connecticut Sun lúc 06:30 ngày 18/09/2026
-https://playback.livetl002.com/live/6a77144762ca98f0944094c0.flv
+https://playback.livetl002.com/live/6a77144762ca98f0944094c0.m3u8
