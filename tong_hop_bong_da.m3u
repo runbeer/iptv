@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://res.cloudinary.com/dv7zv6ltc/image/upload/v1747065042/chuoi_chien/articles/a0pdxvpsvvnkwhcctmml.png", ⚽ Đang diễn ra - Vô địch Châu Âu Bóng Chuyền - 14:00 21/09 - LIVE - Belgium - : - Czech Republic - Chuối Kem - Xem ngay
-https://tfzh3gr4nhct1gwzdrcttfa5unmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=d0022f1d2192505dbaf27fad-179000438587914&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239733742939020
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115632_70f78cfe.png", ⚽ Hiệp 1 - VĐQG Roma - 15:00 21/09 - LIVE - Oţelul - 0 - : - 1 - 22' - Corvinul Hunedoara - Chuối Lá - Xem ngay
-https://tfzh3gr4nhct1gwzdrcttfa5unmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=2e8990a0ebf70a71d3b16b76-179000439866715&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239733243780912
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115516_16425162.png", ⚽ Hiệp 1 - VĐQG Uzbekistan - 15:15 21/09 - LIVE - Xorazm - 0 - : - 0 - 9' - Qizilqum - Chuối Tây - Xem ngay
-https://tfzh3gr4nhct1gwzdrcttfa5unmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=35da8e164c0f3ee10dc18860-179000441147304&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239733739784689
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3888349404e5d5d09f977b30df0ee151.png", ⚽ FC Otelul Galati vs Corvinul Hunedoara luc 22:00 ngay 21/09/2026
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png", ⚽ Thimphu Raven FC vs Ugyen Academy luc 19:00 ngay 21/09/2026
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/309fb09c96420706b640b855ebf34669.png", ⚽ Paraguay U19 vs Uruguay U19 luc 20:00 ngay 21/09/2026
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png", ⚽ CA Barracas Central vs Independiente Rivadavia luc 05:00 ngay 22/09/2026
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png", ⚽ Aldosivi Mar del Plata vs Atletico Tucuman luc 00:30 ngay 22/09/2026
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3888349404e5d5d09f977b30df0ee151.png", ⚽ Petrolul Ploiesti vs FK Csikszereda Miercurea Ciuc luc 01:00 ngay 22/09/2026
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/309fb09c96420706b640b855ebf34669.png", ⚽ Argentina U19 vs Venezuela U19 luc 01:00 ngay 22/09/2026
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.flv
