@@ -1,33 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115838_f553e052.png", ⚽ Hiệp 2 - UEFA Champions League Women - 19:00 22/09 - LIVE - Arsenal W - 0 - : - 0 - 77' - Køge - Chuối Nhỏ - Xem ngay
-https://tfzi3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=daa47a24dec60cf90b2bc69d-179010938360325&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097216119550
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115838_f553e052.png", ⚽ Hiệp 2 - UEFA Champions League Women - 19:00 22/09 - LIVE - Juventus W - 0 - : - 2 - 75' - SL Benfica - Chuối To - Xem ngay
-https://tfzi3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=cc69a6da396f0924fad3004d-179010939761660&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115838_f553e052.png", ⚽ Hiệp 2 - UEFA Champions League Women - 19:00 22/09 - LIVE - Real Madrid W - 1 - : - 1 - 78' - Paris Saint Germain W - Chuối Lá - Xem ngay
-https://tfzi3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=daa47a24dec60cf90b2bc69d-179010941053915&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097216119550
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/586b92fac30a40698596b596577f4121.png", ⚽ RKAV Volendam vs Spakenburg luc 01:00 ngay 23/09/2026
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png", ⚽ Arsenal(w) vs HB Koge Woman's(w) luc 02:00 ngay 23/09/2026
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png", ⚽ Real Madrid(w) vs Paris Saint Germain(w) luc 02:00 ngay 23/09/2026
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png", ⚽ Puerto Montt vs Nublense luc 04:00 ngay 23/09/2026
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_112742_6ed73c4f.png", ⚽ Hiệp 1 - VĐQG Colombia - 23:00 22/09 - LIVE - Atlético Nacional - 0 - : - 0 - 22' - Jaguares - Trốc Tru - Xem ngay
+https://tfzi3gr4nhct1gwzdrcbqgrhdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5a4c3eab3cd75d212cfde6bf-179011935058679&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png", ⚽ Medellin Independiente vs Jaguares de Cordoba luc 06:00 ngay 23/09/2026
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png", ⚽ Audax Italiano vs Colo Colo luc 06:30 ngay 23/09/2026
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.flv
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png", ⚽ Cobreloa vs Coquimbo Unido luc 06:30 ngay 23/09/2026
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png", ⚽ Independiente Santa Fe vs Deportivo Cali luc 08:00 ngay 23/09/2026
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/77ba314de2b78b96acbb57db11119189.png", ⚽ Bradford City vs Newcastle U21 luc 01:30 ngay 23/09/2026
-https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/77ba314de2b78b96acbb57db11119189.png", ⚽ Bromley vs Brentford U21 luc 01:30 ngay 23/09/2026
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4ba807160c5db596c605e059a8bca5b2.png", ⚽ Chippenham Town vs Sholing FC luc 01:45 ngay 23/09/2026
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png", ⚽ Puerto Montt vs Nublense luc 04:00 ngay 23/09/2026
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Washington Mystics vs Connecticut Sun lúc 06:30 ngày 23/09/2026
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/3ffc7c468bbf72b4e7f86e468351272d.png", ⚽ Hapoel Tel Aviv vs Bayern Munchen lúc 23:00 ngày 24/09/2026
-https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
