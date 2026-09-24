@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.api-sports.io/football/leagues/1247.png", ⚽ Hiệp 2 - FIFA Asean Cup - 09:00 24/09 - LIVE - Laos - 3 - : - 1 - 81' - Brunei - Chuối Sấy - Xem ngay
-https://stm9ee346727718.vnplay.hdplaylink.com/cctvlive/chuoisay/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.api-sports.io/football/leagues/10.png", ⚽ Hiệp 1 - Giao Hữu Quốc Tế - 10:05 24/09 - LIVE - Japan - 1 - : - 0 - 29' - Uruguay - A Ngao - Xem ngay
-https://tfzk3gr3dgmtugrzdgpbqgrhdomm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=77e4e2309227aaf4a0d188ac-179024645428116&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032757180434
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/75b6ce8a3018d34793e1aa86ec375795.png", ⚽ Laos vs Brunei Darussalam luc 16:00 ngay 24/09/2026
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png", ⚽ Japan vs Uruguay luc 17:05 ngay 24/09/2026
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.api-sports.io/football/leagues/10.png", ⚽ Hiệp 2 - Giao Hữu Quốc Tế - 14:00 24/09 - LIVE - Uzbekistan - 2 - : - 1 - 74' - Iran - Chuối Chao - Xem ngay
+https://tfzk3gr3dgmtugrzdgpbqgrhdomm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=9660319d92147e73ea4e893c-179026411276244&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032773957826
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115610_4ef814cd.png", ⚽ Đang diễn ra - Gulf Cup of Nations - 15:55 24/09 - LIVE - United Arab Emirates - 0 - : - 0 - Yemen - Chuối Nhỏ - Xem ngay
+https://stm9ee346727718.vnplay.hdplaylink.com/cctvlive/chuoinho/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_115700_a0fcd4fe.png", ⚽ Đang diễn ra - UEFA Nations League - 16:00 24/09 - LIVE - Andorra - 0 - : - 0 - Malta - Trốc Tru - Xem ngay
+https://tfzk3gr3dgmtugrzdgpbqgrhdomm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=77e4e2309227aaf4a0d188ac-179026413878617&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032757180434
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_120144_c5f585be.png", ⚽ Đang diễn ra - Africa Cup of Nations - Qualification - 16:00 24/09 - LIVE - Mauritania - 0 - : - 0 - Central African Republic - Chuối Lá - Xem ngay
+https://tfzk3gr3dgmtugrzdgpbqgrhdomm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=9660319d92147e73ea4e893c-179026415342994&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032773957826
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Portugal vs Wales luc 01:45 ngay 25/09/2026
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Netherlands vs Germany luc 01:45 ngay 25/09/2026
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png", ⚽ South Korea vs Ecuador luc 18:00 ngay 24/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Norway vs Denmark luc 01:45 ngay 25/09/2026
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png", ⚽ Uzbekistan vs Iran luc 21:00 ngay 24/09/2026
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6692f023cb5f6a8bf462c503e584af53.png", ⚽ China vs Maldives luc 18:35 ngay 24/09/2026
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/75b6ce8a3018d34793e1aa86ec375795.png", ⚽ Myanmar vs Timor Leste luc 19:00 ngay 24/09/2026
-https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/dc00471256fd2162677840453cbb2cee.png", ⚽ DR Congo vs Equatorial Guinea luc 23:00 ngay 24/09/2026
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/dc00471256fd2162677840453cbb2cee.png", ⚽ Namibia vs Congo luc 20:00 ngay 24/09/2026
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png", ⚽ PanamaU17 vs Australia U17 luc 21:00 ngay 24/09/2026
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/75ea0c3c22789700eeaf2c8047450d82.png", ⚽ South East Melbourne Phoenix vs Melbourne United lúc 16:30 ngày 24/09/2026
-https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png", ⚽ Xigong heat vs Hanoi buffalo lúc 19:30 ngày 24/09/2026
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
