@@ -1,23 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.api-sports.io/football/leagues/10.png", ⚽ Đang diễn ra - Giao Hữu Quốc Tế - 14:00 28/09 - LIVE - Kyrgyzstan W - : - Maldives - Chuối Lá - Xem ngay
-https://tfzo3gr4nhct1gwzdrpbofa3dqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=2c7a6f546e62c656178a7ce3-179060645339012&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168272072695702710
+#EXTINF:-1 group-title="Quechoa" tvg-logo="https://media.chuoichientv.net/media/20251115_120026_f5783203.png", ⚽ Đang diễn ra - CONCACAF Nations League - 21:00 28/09 - LIVE - Cuba - 0 - : - 0 - Bonaire - Chuối Tây - Xem ngay
+https://tfzo3gr3dgmtugrzdgpbqgrhdomm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=d9c34fedd2bd0f6f6e585b3d-179062895174597&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032760326218
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Turkiye vs Italy luc 01:45 ngay 29/09/2026
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Belgium vs France luc 01:45 ngay 29/09/2026
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Turkiye vs Italy luc 01:45 ngay 29/09/2026
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Sweden vs Poland luc 01:45 ngay 29/09/2026
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/8ab3d9db4697bfbd52ef99f90ba57a29.png", ⚽ Kallithea vs Asteras Tripoli B luc 20:00 ngay 28/09/2026
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/8ab3d9db4697bfbd52ef99f90ba57a29.png", ⚽ Marko vs Panthrakikos luc 20:00 ngay 28/09/2026
-https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d391cd85cedccdcc68243835aab46d77.png", ⚽ MSK Zilina B vs Humenne luc 22:00 ngay 28/09/2026
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Armenia vs Montenegro luc 23:00 ngay 28/09/2026
-https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Latvia vs Cyprus luc 23:00 ngay 28/09/2026
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Germany vs Greece luc 01:45 ngay 28/09/2026
-https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/400f757c15319ff8b11e03a7b5f8779f.png", ⚽ Indian Railways vs Al Ittihad Saudi Arabia lúc 21:45 ngày 28/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/dc00471256fd2162677840453cbb2cee.png", ⚽ Tunisia vs Botswana luc 02:00 ngay 29/09/2026
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", ⚽ America MG vs Juventude luc 05:30 ngay 29/09/2026
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png", ⚽ Jamaica vs Honduras luc 07:00 ngay 29/09/2026
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png", ⚽ Guatemala vs El Salvador luc 09:00 ngay 29/09/2026
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png", ⚽ Leganes vs Castellon luc 01:30 ngay 29/09/2026
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Romania vs Bosnia Herzegovina luc 01:45 ngay 29/09/2026
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Northern Ireland vs Hungary luc 01:45 ngay 29/09/2026
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/16b5accca4ecc35e7e3d45a96094bede.png", ⚽ Atletico Lanus vs Gimnasia Comodoro lúc 08:05 ngày 29/09/2026
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/3ffc7c468bbf72b4e7f86e468351272d.png", ⚽ Maccabi Tel Aviv vs Besiktas GAIN lúc 01:05 ngày 01/10/2026
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
